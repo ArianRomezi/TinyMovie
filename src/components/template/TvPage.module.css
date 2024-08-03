@@ -1,0 +1,17 @@
+.link {
+  display: flex;
+  gap: 50px;
+  color: white;
+  margin-top: 50px;
+}
+.header {
+  height: fit-content;
+  /* padding-top: 40px; */
+  display: flex;
+  /* gap: 20px; */
+  justify-content: space-between;
+}
+.active {
+  color: #00b9ae;
+  border-bottom: 1px solid #00b9ae;
+}

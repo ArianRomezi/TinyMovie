@@ -1,0 +1,32 @@
+.header {
+  background-color: #21242d;
+  color: #f9f9f9;
+  width: 248px;
+  position: fixed;
+  height: 100%;
+}
+.header ul {
+  margin-top: 40px;
+  margin-left: 41px;
+  list-style: none;
+}
+.header span {
+  color: #00b9ae;
+}
+.header li {
+  margin-top: 10px;
+}
+.header button {
+  background-color: #21242d;
+  color: #f9f9f9;
+  border: none;
+}
+.icon {
+  margin-right: 10px;
+}
+.header li:hover {
+  color: #00b9ae;
+}
+.active {
+  color: #00b9ae;
+}

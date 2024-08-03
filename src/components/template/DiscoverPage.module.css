@@ -1,0 +1,21 @@
+.container {
+  background-color: #16181e;
+  /* margin-left: 245px; */
+  color: #f9f9f9;
+
+  /* padding-right: 30px;
+  padding-left: 30px; */
+
+  /* gap: 200px; */
+}
+.header {
+  height: fit-content;
+
+  display: flex;
+  /* gap: 20px; */
+  justify-content: space-between;
+}
+.link {
+  display: flex;
+  gap: 50px;
+}
